@@ -2,7 +2,7 @@
 layout: page
 title: Implicit Regularization of Gradient Descent
 description: March 2024 - May 2024
-img: assets/img/12.jpg
+img: assets/img/imp1.jpg
 importance: 1
 category: statistics
 related_publications: false
