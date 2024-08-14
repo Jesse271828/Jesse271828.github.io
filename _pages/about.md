@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UC Berkeley, <a href='https://bliss.eecs.berkeley.edu/'> Berkeley Laboratory of Information and System Sciences</a>. 
+subtitle: UC Berkeley, <a href='https://bliss.eecs.berkeley.edu/'> BLISS</a>. 
 
 profile:
   align: right
