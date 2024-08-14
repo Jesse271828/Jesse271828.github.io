@@ -1,81 +1,19 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Implicit Regularization of Gradient Descent
+description: March 2024 - May 2024
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: statistics
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This is a project I did with **Mriganka** between March 2024 and May 2024, who was in his fourth year phd with professor Shirshendu Ganguly in the stats department. It's a final project for a special topics class in statistical learning taught by professor Ryan Tibshirani, and we ended up completing a report of 13 pages. In April, I presented the relevant theory in a BLISS seminar to our group. We received a 69/70 for the project. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Our starting point was Reproducing Kernel Hilbert Space theory. Mriganka found a <a href='https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html'> blog post</a> where the author considered a linear regression problem on a large set of random functions. The constraint is that my function must go through very few number of points, few comparing to the size of my function set, which means many solutions would satisfy this condition. Now, I can run gradient descent on this set to obtain one solution, but the observation comes quite visually--as the website has a visual simulation--that GD would produce a solution that puts straight lines between my constraint points. One can view straight line between points as a minimization of some sort of distance or norm. The idea is: GD shouldn't be treated as just another optimization method, and it performs an implicit regularization on the solution. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+We then dived into this topic with the standard approach, which is to consider the least squares problem. From there, one can show, by solving the gradient flow differential equations, that running GD would produce a solution that minimizes the l-2 norm. This seems to be consistent with the blog post from above. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+From here, we shifted our attention to one question: is it true that in any problem setting, implicit regularization always means implicit norm regularization. The answer is no. Following <a href='[https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html](https://arxiv.org/abs/2005.06398)'> this paper</a>, we were able to show both theoretically and empirically that GD regularize toward rank but not norm in the context of the matrix factorization problem. 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/pdf1.pdf" width="1000" height="1000" type="application/pdf"></object>
