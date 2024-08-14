@@ -14,6 +14,6 @@ Our starting point was Reproducing Kernel Hilbert Space theory. Mriganka found a
 
 We then dived into this topic with the standard approach, which is to consider the least squares problem. From there, one can show, by solving the gradient flow differential equations, that running GD would produce a solution that minimizes the l-2 norm. This seems to be consistent with the blog post from above. 
 
-From here, we shifted our attention to one question: is it true that in any problem setting, implicit regularization always means implicit norm regularization. The answer is no. Following <a href='[https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html](https://arxiv.org/abs/2005.06398)'> this paper</a>, we were able to show both theoretically and empirically that GD regularize toward rank but not norm in the context of the matrix factorization problem. 
+From here, we shifted our attention to one question: is it true that in any problem setting, implicit regularization always means implicit norm regularization. The answer is no. Following <a href='https://arxiv.org/abs/2005.06398'> this paper</a>, we were able to show both theoretically and empirically that GD regularize toward rank but not norm in the context of the matrix factorization problem. 
 
 <object data="{{ site.url }}{{ site.baseurl }}/_pdfs/pdf1.pdf" width="1000" height="1000" type="application/pdf"></object>
