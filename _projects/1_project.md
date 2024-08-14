@@ -16,6 +16,5 @@ We then dived into this topic with the standard approach, which is to consider t
 
 From here, we shifted our attention to one question: is it true that in any problem setting, implicit regularization always means implicit norm regularization. The answer is no. Following <a href='https://arxiv.org/abs/2005.06398'> this paper</a>, we were able to show both theoretically and empirically that GD regularizes towards rank but not norm in the context of the **matrix factorization** problem. 
 
-<embed src="assets/pdf/imp.pdf" width="600" height="500" type="application/pdf">
-<iframe src="assets/pdf/imp.pdf" width="600" height="500" style="border: none;"></iframe>
+<iframe src="https://github.com/Jesse271828/Jesse271828.github.io/raw/master/assets/pdf/imp.pdf" width="1000" height="1000" style="border: none;"></iframe>
 
