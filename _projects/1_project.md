@@ -46,7 +46,7 @@ From here, we shifted our attention to one question: is it true that in any prob
 <body>
         <iframe class="pdf" 
                 src=
-"https://github.com/Jesse271828/Jesse271828.github.io/blob/master/assets/pdf/imp.pdf"
+"https://jesse271828.github.io/assets/pdf/imp.pdf"
             width="800" height="500">
         </iframe>
 </body>
