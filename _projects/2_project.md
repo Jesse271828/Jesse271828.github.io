@@ -14,4 +14,41 @@ Our starting point was the card shuffling question: suppose I give you an ordere
 
 The key is that by introducing **characters**, a key element of representation theory, we're able to overcome the complexity introduced by **convolution**, a necessary step in analyzing any kind of **random walks**. In SP, similarly, we're able to overcome the same difficulty by switching between the frequency domain and the time domain, and thus between convolution and multiplication. I believe these two methodologies are the same in essence, as the content of section 3 implies. 
 
+<html>
+
+<head>
+    <title>PDF in HTML</title>
+</head>
+<style>
+    .pdf {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+    }
+    .pdf,
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+   h1,
+    h3 {
+        text-align: center;
+    }
+
+    h1 {
+        color: green;
+    }
+</style>
+
+<body>
+        <iframe class="pdf" 
+                src=
+"https://jesse271828.github.io/assets/pdf/rep.pdf"
+            width="800" height="500">
+        </iframe>
+</body>
+
+</html>
+
 
