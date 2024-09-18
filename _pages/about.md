@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-
+<h1 style="font-size:10">Bio</h1>
 
 I am a fourth year undergraduate currently applying to phd programs. I started out as a physics major, and I have backgrounds in math probability, stochastic processes, statistics, ML/RL, information theory, and operations research. For more than a year I've been advised by professor <a href='https://people.eecs.berkeley.edu/~kannanr/'> Kannan Ramchandran</a>. 
 
