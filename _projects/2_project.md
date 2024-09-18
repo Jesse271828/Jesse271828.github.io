@@ -2,7 +2,7 @@
 layout: page
 title: Representation Theory and Random Walks on Groups. 
 description: August 2022 - May 2023
-img: assets/img/rep.jpg
+img: assets/img/cover_image_2.png
 importance: 2
 category: statistics/mathematics
 giscus_comments: false
