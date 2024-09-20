@@ -9,7 +9,7 @@ related_publications: false
 ---
 
     ---
-This is a project I did with **Mriganka Basu Roy Chowdhury**, who was in his fourth year PhD with Prof. Shirshendu Ganguly in the stats department. It's a final project for a special topics graduate class in **statistical learning**, and we ended up completing a report of **13 pages**. In April, I presented the relevant theory in a **BLISS seminar** to our group. We received a **69/70** for the project.
+    This is a project I did with **Mriganka Basu Roy Chowdhury**, who was in his fourth year PhD with Prof. Shirshendu Ganguly in the stats department. It's a final project for a special topics graduate class in **statistical learning**, and we ended up completing a report of **13 pages**. In April, I presented the relevant theory in a **BLISS seminar** to our group. We received a **69/70** for the project.
 
     ---
 
