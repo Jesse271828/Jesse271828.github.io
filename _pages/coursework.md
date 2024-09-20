@@ -37,6 +37,7 @@ nav_order: 7
   <p style="margin-left: 30px;"> &middot; Discrete and continuous time Markov Chains.<p>
   <p style="margin-left: 30px;"> &middot; Poisson process.<p>
   <p style="margin-left: 30px;"> &middot; Martingales.<p>
+    
   ---
 
 **<a href='https://www.stat.berkeley.edu/~ryantibs/statlearn-s24/'>Stat 241B: Advanced Topics in Statistical Learning</a>**, Spring 2024, taught by **Prof. Ryan Tibshirani**
