@@ -9,8 +9,6 @@ nav_order: 7
 
 **Graduate Courses:** I've taken six graduate courses. 
 
-  ---
-
 **<a href='https://sites.google.com/view/nikitazhivotovskiy/stat260?authuser=0'>Stat 260: Theoretical Statistics: Additional Chapters</a>**, Fall 2024, taught by **Prof. Nikita Zhivotovskiy**
 
   ---
