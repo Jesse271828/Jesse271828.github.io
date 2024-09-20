@@ -26,7 +26,6 @@ nav_order: 7
   <p style="margin-left: 30px;"> &middot; Fundamental bounds of Shannon theory and their application.<p>
   <p style="margin-left: 30px;"> &middot; Source and channel coding theorems.<p>
   <p style="margin-left: 30px;"> &middot; Galois field theory, algebraic error-correction codes.<p>
-  
   ---
 
 **<a href='https://inst.eecs.berkeley.edu/~ee226a/sp24/'>EE 226A: Random Processes in Systems</a>**, Spring 2024, taught by **Prof. Anant Sahai**
@@ -38,7 +37,6 @@ nav_order: 7
   <p style="margin-left: 30px;"> &middot; Discrete and continuous time Markov Chains.<p>
   <p style="margin-left: 30px;"> &middot; Poisson process.<p>
   <p style="margin-left: 30px;"> &middot; Martingales.<p>
-  
   ---
 
 **<a href='https://www.stat.berkeley.edu/~ryantibs/statlearn-s24/'>Stat 241B: Advanced Topics in Statistical Learning</a>**, Spring 2024, taught by **Prof. Ryan Tibshirani**
@@ -50,7 +48,6 @@ nav_order: 7
   <p style="margin-left: 30px;"> &middot; Empirical process theory.<p>
   <p style="margin-left: 30px;"> &middot; Lasso, Ridge and Ridgeless.<p>
   <p style="margin-left: 30px;"> &middot; Conformal prediction under distribution shift.<p>
-  
   ---
 
 **<a href='https://www.stat.berkeley.edu/~wfithian/courses/stat210a/'>Stat 210A: Theoretical Statistics</a>**, Fall 2023, taught by **Prof. Will Fithian**
@@ -66,7 +63,6 @@ Statistical decision theory (frequentist and Bayesian), exponential families, po
   <p style="margin-left: 30px;"> &middot; Empirical Bayes.<p>
   <p style="margin-left: 30px;"> &middot; Large-sample theory.<p>
   <p style="margin-left: 30px;"> &middot; High-dimensional testing, multiple testing and selective inference.<p>
-  
   ---
 
   
