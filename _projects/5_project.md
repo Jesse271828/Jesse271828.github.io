@@ -2,11 +2,13 @@
 layout: page
 title: Multi-agent Reinforcement Learning for Trading
 description: Sep 2023 - Dec 2023
-img: 
+img: assets/img/cover_image_5.png
 importance: 3
 category: machine learning
 giscus_comments: false
 ---
+
+
 
 <head>
     <title>PDF in HTML</title>
