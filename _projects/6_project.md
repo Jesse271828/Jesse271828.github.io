@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamic airline scheduling
+title: Dynamic Airline Scheduling
 description: May 2024 - 
 img: assets/img/cover_image_6.png
 importance: 1
