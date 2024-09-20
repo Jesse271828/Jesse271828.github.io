@@ -8,7 +8,7 @@ category: machine learning
 giscus_comments: false
 ---
 
-
+This project was my first project at BLISS, where 
 
 
 <html>
