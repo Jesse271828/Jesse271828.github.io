@@ -9,7 +9,7 @@ nav_order: 7
 
 **Graduate Courses:** I've taken six graduate courses. 
 
-**<a href='https://sites.google.com/view/nikitazhivotovskiy/stat260?authuser=0'>Stat 260</a>**, Fall 2024, taught by **Prof. Nikita Zhivotovskiy</a>**
+**<a href='https://sites.google.com/view/nikitazhivotovskiy/stat260?authuser=0'>Stat 260</a>**, Fall 2024, taught by **Prof. Nikita Zhivotovskiy**
 
   ---
   . Stein's unbiased risk estimate and its applications.
@@ -21,6 +21,8 @@ nav_order: 7
   . Basics of generic chaining and its applications.
   
   ---
+
+**EE 229</a>**, Fall 2024, taught by **Prof. Venkatachalam Anantharam**
 
   
 
