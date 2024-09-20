@@ -52,7 +52,6 @@ nav_order: 7
 
 **<a href='https://www.stat.berkeley.edu/~wfithian/courses/stat210a/'>Stat 210A: Theoretical Statistics</a>**, Fall 2023, taught by **Prof. Will Fithian**
 
-Statistical decision theory (frequentist and Bayesian), exponential families, point estimation, hypothesis testing, resampling methods, estimating equations and maximum likelihood, empirical Bayes, large-sample theory, high-dimensional testing, multiple testing and selective inference.
   ---
   <p style="margin-left: 30px;"> &middot; Statistical decision theory (frequentist and Bayesian).<p>
   <p style="margin-left: 30px;"> &middot; Exponential families.<p>
