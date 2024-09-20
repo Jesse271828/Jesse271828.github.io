@@ -52,7 +52,7 @@ There are still many questions to be answered in q-SFT. For instance, what is th
 <body>
         <iframe class="pdf" 
                 src=
-"https://jesse271828.github.io/assets/pdf/rep.pdf"
+"https://wjingxing.github.io/assets/pdf/qsft.pdf"
             width="800" height="500">
         </iframe>
 </body>
