@@ -8,7 +8,10 @@ category: statistics/mathematics
 giscus_comments: false
 ---
 
+---
 This project was completed through a selective program **<a href='https://wp.math.berkeley.edu/drp/program-overview/'> Berkeley Mathematics Directed Reading Program</a>**, where I was paired with **Gabriel Ramirez Raposo**, who was then a PhD student under Prof. Vadim Gorin. In the end, a writeup was completed, and it includes major results we proved along with, sometimes, the proofs themselves. The writeup is meant to provide an intuitive understanding of the subject. Of course, all the results are in the book, but I try to voice the narration by how I first approached the subject and the order in which I was revealed to the main ideas. Later on, I found connections between the subject and my main research, so I added another brief section discussing that as well. 
+
+---
 
 Our starting point was the card shuffling question: suppose I give you an ordered deck of cards without the jokers. Now, you must shuffle it until it becomes uniformly random. The question is how many times it takes for that to be accomplished. The answer is 7. And the curve converges very quickly between 6 and 7, which means after I shuffle six times the deck is still very un-uniform, but once I shuffle the seventh time the cards are very uniform. This result comes from the two bounds provided in section 2.4 of the writeup: basically, we treat all possible ways of shuffling as elements of a group. We measure the uniform-ness by looking at the **total variation** between random walks done on this group and the uniform distribution. We then bound them with numerical methods. 
 
