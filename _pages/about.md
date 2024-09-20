@@ -7,7 +7,7 @@ subtitle: UC Berkeley, member of <a href='https://bliss.eecs.berkeley.edu/'>Berk
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.heic
   image_circular: False # crops the image to make it circular
   more_info: >
     <p>Berkeley, CA <br>Efe said I should play an instrument because I look like a rockstar.</p>
