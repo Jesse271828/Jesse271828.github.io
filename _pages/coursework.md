@@ -12,13 +12,12 @@ nav_order: 7
 **<a href='https://sites.google.com/view/nikitazhivotovskiy/stat260?authuser=0'>Stat 260: Theoretical Statistics: Additional Chapters</a>**, Fall 2024, taught by **Prof. Nikita Zhivotovskiy**
 
   ---
-  <p style="margin-left: 15px;"> &middot; Stein's unbiased risk estimate and its applications.</p><br>
-  &middot; Minimax lower bounds.<br>
-  &middot; RKHS theory and its relation to statistics.<br>
-  &middot; Sparse recovery.<br>
-  &middot; Elements of sampling theory.<br>
-  &middot; Analysis of interpolating estimators.
-  
+  <p style="margin-left: 15px;"> &middot; Stein's unbiased risk estimate and its applications.</p>
+  <p style="margin-left: 15px;"> &middot; Minimax lower bounds.</p>
+  <p style="margin-left: 15px;"> &middot; RKHS theory and its relation to statistics.</p>
+  <p style="margin-left: 15px;"> &middot; Sparse recovery.</p>
+  <p style="margin-left: 15px;"> &middot; Elements of sampling theory.</p>
+  <p style="margin-left: 15px;"> &middot; Analysis of interpolating estimators.</p>
   ---
 
 **EE 229: Information Theory and Coding**, Fall 2024, taught by **Prof. Venkatachalam Anantharam**
