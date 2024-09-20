@@ -8,7 +8,7 @@ category: statistics/mathematics
 related_publications: false
 ---
 
-This is a project I did with **Mriganka Basu Roy Chowdhury**, who was in his fourth year PhD with professor Shirshendu Ganguly in the stats department. It's a final project for a special topics graduate class in **statistical learning** taught by professor Ryan Tibshirani, and we ended up completing a report of **13 pages**. In April, I presented the relevant theory in a **BLISS seminar** to our group. We received a **69/70** for the project. 
+This is a project I did with **Mriganka Basu Roy Chowdhury**, who was in his fourth year PhD with Prof. Shirshendu Ganguly in the stats department. It's a final project for a special topics graduate class in **statistical learning**, and we ended up completing a report of **13 pages**. In April, I presented the relevant theory in a **BLISS seminar** to our group. We received a **69/70** for the project. 
 
 Our starting point was **Reproducing Kernel Hilbert Space** theory. Mriganka found a <a href='https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html'> blog post</a> where the author considered a linear regression problem on a large set of random functions. The constraint is that my function must go through very few number of points, few comparing to the size of my function set, which means many solutions would satisfy this condition. Now, I can run gradient descent on this set to obtain one solution, but the observation comes quite visually--as the website has a visual simulation--that GD would produce a solution that puts straight lines between my constraint points. One can view straight line between points as a minimization of some sort of distance or norm. The idea is: GD shouldn't be treated as just another optimization method, and it performs an implicit regularization on the solution. 
 
@@ -46,7 +46,7 @@ From here, we shifted our attention to one question: is it true that in any prob
 <body>
         <iframe class="pdf" 
                 src=
-"https://jesse271828.github.io/assets/pdf/imp.pdf"
+"https://wjingxing.github.io/assets/pdf/imp.pdf"
             width="800" height="500">
         </iframe>
 </body>
