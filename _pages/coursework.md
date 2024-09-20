@@ -9,20 +9,24 @@ nav_order: 7
 
 **Graduate Courses:** I've taken six graduate courses. 
 
-**<a href='https://sites.google.com/view/nikitazhivotovskiy/stat260?authuser=0'>Stat 260</a>**, Fall 2024, taught by **Prof. Nikita Zhivotovskiy**
+**<a href='https://sites.google.com/view/nikitazhivotovskiy/stat260?authuser=0'>Stat 260: Theoretical Statistics: Additional Chapters</a>**, Fall 2024, taught by **Prof. Nikita Zhivotovskiy**
 
   ---
-  . Stein's unbiased risk estimate and its applications.
-  . Minimax lower bounds.
-  . RKHS theory and its relation to statistics.
-  . Sparse recovery.
-  . Elements of sampling theory.
-  . Analysis of interpolating estimators.
-  . Basics of generic chaining and its applications.
-  
+  &middot Stein's unbiased risk estimate and its applications.<br>
+  &middot Minimax lower bounds.<br>
+  &middot RKHS theory and its relation to statistics.<br>
+  &middot Sparse recovery.<br>
+  &middot Elements of sampling theory.<br>
+  &middot Analysis of interpolating estimators.<br>  
   ---
 
-**EE 229</a>**, Fall 2024, taught by **Prof. Venkatachalam Anantharam**
+**EE 229: Information Theory and Coding**, Fall 2024, taught by **Prof. Venkatachalam Anantharam**
+
+  ---
+  &middot Fundamental bounds of Shannon theory and their application.<br>
+  &middot Source and channel coding theorems.<br>
+  &middot Galois field theory, algebraic error-correction codes.<br>
+  ---
 
   
 
