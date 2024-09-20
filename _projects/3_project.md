@@ -8,8 +8,11 @@ category: machine learning
 giscus_comments: false
 ---
 
-This project was my first project at BLISS, where 
+<hr style="border: 1px solid black; width: 100%;">
 
+This project was my first project at BLISS, where I was guided by 
+
+<hr style="border: 1px solid black; width: 100%;">
 
 <html>
 
