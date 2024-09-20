@@ -10,7 +10,7 @@ giscus_comments: false
 
 <hr style="border: 1px solid black; width: 100%;">
 
-This project was my first project at BLISS, where I was guided by **<a href='https://erginbas.github.io/'> Efe</a>** and worked on the algorithm they had just published called q-SFT. I understood the algorithm to its mathematical details and worked with the code base to study the problem of **parameter selection** both theoretically and empirically. **I then developed a noise estimator algorithm that is now part of q-SFT**, authomating the selection of peeling noise. **The project is still ongoing in the sense that there are still several statistical questions in alasing, noise estimation, and sensing that I wish to spend more time on. The vision interpretability project is in some sense an applied continuation of this project.** 
+This project was my first project at BLISS, where I was guided by **<a href='https://erginbas.github.io/'> Efe</a>** and worked on the algorithm they had just published called q-SFT. I understood the algorithm to its mathematical details and worked with the code base to study the problem of **parameter selection** both theoretically and empirically. **I then developed a noise estimator algorithm that is now part of q-SFT**, authomating the selection of peeling noise. **The project is still ongoing in the sense that there are still several statistical questions in alasing, noise estimation, and sensing that I wish to spend more time on. The vision interpretability project is in some sense an applied continuation of this project. All results were included in the report below.** 
 
 <hr style="border: 1px solid black; width: 100%;">
 
