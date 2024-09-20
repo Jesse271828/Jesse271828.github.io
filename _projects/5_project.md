@@ -38,7 +38,7 @@ giscus_comments: false
 <body>
         <iframe class="pdf" 
                 src=
-"https://wjingxing.github.io/assets/pdf/multiagent-trade.pdf"
+"https://wjingxing.github.io/assets/pdf/multiagent-trading.pdf"
             width="800" height="500">
         </iframe>
 </body>
