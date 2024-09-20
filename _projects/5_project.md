@@ -8,6 +8,10 @@ category: machine learning
 giscus_comments: false
 ---
 
+    ---
+This is a project I did with **Mert Cemri**, who was first year PhD student at BLISS. It's a final project for a class on **deep reinforcement learning**, and we ended up completing a report of **12 pages**, receiving a **96/100** for the project. **We are currently working on comparing the novel methods we developed with baselines in the field of trading with MDPs and possibly submitting to a conference or journal.**
+    ---
+
 
 
 <head>
