@@ -12,7 +12,7 @@ nav_order: 7
 **<a href='https://sites.google.com/view/nikitazhivotovskiy/stat260?authuser=0'>Stat 260: Theoretical Statistics: Additional Chapters</a>**, Fall 2024, taught by **Prof. Nikita Zhivotovskiy**
 
   ---
-  &middot; Stein's unbiased risk estimate and its applications.<br>
+  <p style="margin-left: 15px;">&middot; Stein's unbiased risk estimate and its applications.</p><br>
   &middot; Minimax lower bounds.<br>
   &middot; RKHS theory and its relation to statistics.<br>
   &middot; Sparse recovery.<br>
@@ -30,7 +30,7 @@ nav_order: 7
   
   ---
 
-**<a href='https://inst.eecs.berkeley.edu/~ee226a/sp24/'>EE 226A: Random Process in Systems</a>**, Spring 2024, taught by **Prof. Anant Sahai**
+**<a href='https://inst.eecs.berkeley.edu/~ee226a/sp24/'>EE 226A: Random Processes in Systems</a>**, Spring 2024, taught by **Prof. Anant Sahai**
 
   ---
   &middot; Measure Theory, limit theorems and convergence.<br>
@@ -39,6 +39,34 @@ nav_order: 7
   &middot; Discrete and continuous time Markov Chains.<br>
   &middot; Poisson process.<br>
   &middot; Poisson Martingales.
+  
+  ---
+
+**<a href='https://www.stat.berkeley.edu/~ryantibs/statlearn-s24/'>Stat 241B: Advanced Topics in Statistical Learning</a>**, Spring 2024, taught by **Prof. Ryan Tibshirani**
+
+  ---
+  &middot; Nearest neighbors and kernels.<br>
+  &middot; Splines and RKHS methods.<br>
+  &middot; Minimax theory.<br>
+  &middot; Empirical process theory.<br>
+  &middot; Lasso, Ridge and Ridgeless.<br>
+  &middot; Conformal prediction under distribution shift.
+  
+  ---
+
+**<a href='https://www.stat.berkeley.edu/~wfithian/courses/stat210a/'>Stat 210A: Theoretical Statistics</a>**, Fall 2023, taught by **Prof. Will Fithian**
+
+Statistical decision theory (frequentist and Bayesian), exponential families, point estimation, hypothesis testing, resampling methods, estimating equations and maximum likelihood, empirical Bayes, large-sample theory, high-dimensional testing, multiple testing and selective inference.
+  ---
+  &middot; Statistical decision theory (frequentist and Bayesian).<br>
+  &middot; Exponential families.<br>
+  &middot; Point estimation.<br>
+  &middot; Hypothesis testing.<br>
+  &middot; Resampling methods.<br>
+  &middot; Estimating equations and maximum likelihood.<br>
+  &middot; Empirical Bayes.<br>
+  &middot; Large-sample theory.<br>
+  &middot; High-dimensional testing, multiple testing and selective inference.
   
   ---
 
