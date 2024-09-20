@@ -24,48 +24,48 @@ nav_order: 7
 **EE 229: Information Theory and Coding**, Fall 2024, taught by **Prof. Venkatachalam Anantharam**
 
   ---
-  <p style="margin-left: 30px;"> &middot; Fundamental bounds of Shannon theory and their application.<p>
-  <p style="margin-left: 30px;"> &middot; Source and channel coding theorems.<p>
-  <p style="margin-left: 30px;"> &middot; Galois field theory, algebraic error-correction codes.<p>
+  <p style="margin-left: 30px;"> &middot; Fundamental bounds of Shannon theory and their application.</p>
+  <p style="margin-left: 30px;"> &middot; Source and channel coding theorems.</p>
+  <p style="margin-left: 30px;"> &middot; Galois field theory, algebraic error-correction codes.</p>
 
   ---
 
 **<a href='https://inst.eecs.berkeley.edu/~ee226a/sp24/'>EE 226A: Random Processes in Systems</a>**, Spring 2024, taught by **Prof. Anant Sahai**
 
   ---
-  <p style="margin-left: 30px;"> &middot; Measure Theory, limit theorems and convergence.<p>
-  <p style="margin-left: 30px;"> &middot; Gaussian random variables and processes.<p>
-  <p style="margin-left: 30px;"> &middot; Linear estimation and time series analysis.<p>
-  <p style="margin-left: 30px;"> &middot; Discrete and continuous time Markov Chains.<p>
-  <p style="margin-left: 30px;"> &middot; Poisson process.<p>
-  <p style="margin-left: 30px;"> &middot; Martingales.<p>
+  <p style="margin-left: 30px;"> &middot; Measure Theory, limit theorems and convergence.</p>
+  <p style="margin-left: 30px;"> &middot; Gaussian random variables and processes.</p>
+  <p style="margin-left: 30px;"> &middot; Linear estimation and time series analysis.</p>
+  <p style="margin-left: 30px;"> &middot; Discrete and continuous time Markov Chains.</p>
+  <p style="margin-left: 30px;"> &middot; Poisson process.</p>
+  <p style="margin-left: 30px;"> &middot; Martingales.</p>
     
   ---
 
 **<a href='https://www.stat.berkeley.edu/~ryantibs/statlearn-s24/'>Stat 241B: Advanced Topics in Statistical Learning</a>**, Spring 2024, taught by **Prof. Ryan Tibshirani**
 
   ---
-  <p style="margin-left: 30px;"> &middot; Nearest neighbors and kernels.<p>
-  <p style="margin-left: 30px;"> &middot; Splines and RKHS methods.<p>
-  <p style="margin-left: 30px;"> &middot; Minimax theory.<p>
-  <p style="margin-left: 30px;"> &middot; Empirical process theory.<p>
-  <p style="margin-left: 30px;"> &middot; Lasso, Ridge and Ridgeless.<p>
-  <p style="margin-left: 30px;"> &middot; Conformal prediction under distribution shift.<p>
+  <p style="margin-left: 30px;"> &middot; Nearest neighbors and kernels.</p>
+  <p style="margin-left: 30px;"> &middot; Splines and RKHS methods.</p>
+  <p style="margin-left: 30px;"> &middot; Minimax theory.</p>
+  <p style="margin-left: 30px;"> &middot; Empirical process theory.</p>
+  <p style="margin-left: 30px;"> &middot; Lasso, Ridge and Ridgeless.</p>
+  <p style="margin-left: 30px;"> &middot; Conformal prediction under distribution shift.</p>
     
   ---
 
 **<a href='https://www.stat.berkeley.edu/~wfithian/courses/stat210a/'>Stat 210A: Theoretical Statistics</a>**, Fall 2023, taught by **Prof. Will Fithian**
 
   ---
-  <p style="margin-left: 30px;"> &middot; Statistical decision theory (frequentist and Bayesian).<p>
-  <p style="margin-left: 30px;"> &middot; Exponential families.<p>
-  <p style="margin-left: 30px;"> &middot; Point estimation.<p>
-  <p style="margin-left: 30px;"> &middot; Hypothesis testing.<p>
-  <p style="margin-left: 30px;"> &middot; Resampling methods.<p>
-  <p style="margin-left: 30px;"> &middot; Estimating equations and maximum likelihood.<p>
-  <p style="margin-left: 30px;"> &middot; Empirical Bayes.<p>
-  <p style="margin-left: 30px;"> &middot; Large-sample theory.<p>
-  <p style="margin-left: 30px;"> &middot; High-dimensional testing, multiple testing and selective inference.<p>
+  <p style="margin-left: 30px;"> &middot; Statistical decision theory (frequentist and Bayesian).</p>
+  <p style="margin-left: 30px;"> &middot; Exponential families.</p>
+  <p style="margin-left: 30px;"> &middot; Point estimation.</p>
+  <p style="margin-left: 30px;"> &middot; Hypothesis testing.</p>
+  <p style="margin-left: 30px;"> &middot; Resampling methods.</p>
+  <p style="margin-left: 30px;"> &middot; Estimating equations and maximum likelihood.</p>
+  <p style="margin-left: 30px;"> &middot; Empirical Bayes.</p>
+  <p style="margin-left: 30px;"> &middot; Large-sample theory.</p>
+  <p style="margin-left: 30px;"> &middot; High-dimensional testing, multiple testing and selective inference.</p>
     
   ---
 
