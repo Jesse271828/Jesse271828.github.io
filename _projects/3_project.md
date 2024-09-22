@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Q-ary Sparse Fourier Transforms
-description: May 2023 - 
+description: May 2023 - May 2024
 img: assets/img/cover_image_3.png
 importance: 1
 category: machine learning
