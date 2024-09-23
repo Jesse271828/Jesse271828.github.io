@@ -10,6 +10,6 @@ giscus_comments: false
 
 <hr style="border: 1px solid black; width: 100%;">
 
-This project is still in progress. 
+This project is still in progress. I've been working with Kannan and Efe since the summer on interpreting vision models via Shapley Values methods. 
 
 <hr style="border: 1px solid black; width: 100%;">
